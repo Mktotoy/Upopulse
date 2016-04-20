@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="togglebutton" type="id">Validation</item>
+    <item name="thumbnail" type="id">Texte</item>
+    <item name="picture" type="id">Photo</item>
+    <item name="listUsers" type="id">ListeUser</item>
+    <item name="nom" type="id">Nom</item>
+</resources>
