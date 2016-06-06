@@ -67,7 +67,7 @@ public class SearchResultsActivity extends ActionBarActivity {
                         e.printStackTrace();
                         Log.e(TAG, "Erreur recuperation de la salle lors du click");
                     }
-                    Toast.makeText(ctxt, salle.getNomRoom(), Toast.LENGTH_LONG).show();
+                    Toast.makeText(ctxt, salle.getNomRoom(), Toast.LENGTH_LONG).show();//reviewtt
                     startActivity(new Intent(ctxt, HomePageActivity.class));
                 }
             }

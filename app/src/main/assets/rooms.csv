@@ -1,4 +1,15 @@
 ns1:styleUrl;ns1:name;ns1:description;ns1:coordinates;id;ns1:color;ns1:scale;ns1:href;BUILDING_ID;FLOOR_LVL
+#icon-503-FF8277;Batiment G;UFR SEGMI;2.215653,48.903042;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;0
+#icon-503-FF8277;Batiment F;UFR DSP;2.214559,48.902407;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;0
+#icon-503-FF8277;Batiment N;SUFOM;2.214300,48.905235;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.N;0
+#icon-503-FF8277;Restaurant Universitaire;CROUS;2.216817,48.904287;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.RU;0
+#icon-503-FF8277;Bibliothèque Universitaire;;2.215732,48.905256;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.BU;0
+#icon-503-FF8277;Centre Sportif;SUAPS;2.213170, 48.903860;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.SUAPS;0
+#icon-503-FF8277;Batiment A;;2.210411,48.903609;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.A;0
+#icon-503-FF8277;Batiment B;;2.210910,48.903200;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.B;0
+#icon-503-FF8277;Batiment C;U.F.R. Sciences Psychologiques et Sciences de l'Éducation;2.211469,48.902670;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.C;0
+#icon-503-FF8277;Batiment D;;2.211952,48.902248;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.D;0
+#icon-503-FF8277;Batiment E;;2.212697,48.901846;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.E;0
 #icon-503-FF8277;R/Amphi A;;2.2163019329309464,48.90334068539802;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;0
 #icon-503-FF8277;R/Amphi B;;2.215743362903595,48.903220794457006;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;0
 #icon-503-FF8277;R/Amphi D;;2.2160249948501587,48.90303831284039;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;0
@@ -106,28 +117,28 @@ ns1:styleUrl;ns1:name;ns1:description;ns1:coordinates;id;ns1:color;ns1:scale;ns1
 #icon-503-FF8277;R/Salle 309;;2.2155623137950897,48.902878751074034;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;3
 #icon-503-FF8277;R/Salle 310B;;2.2154925763607025,48.902852304323225;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;3
 #icon-503-FF8277;R/Salle 310A;;2.215409427881241,48.902809989492795;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;3
-#icon-503-795046;R/Salle 410A;;2.215401381254196,48.902797206880706;;;;;Bat.G;4
-#icon-503-7CCFA9;R/Salle 410B;;2.215479165315628,48.902837758604306;;;;;Bat.G;4
-#icon-503-FFDD5E;S/Escaliers;;2.2153396904468536,48.90287390250409;;;;;Bat.G;4
-#icon-503-9FC3FF;R/Salle 412;;2.2154302150011063,48.90292503285431;;;;;Bat.G;4
-#icon-503-CDDC39;R/Salle;;2.2154831886291504,48.90296602525247;;;;;Bat.G;4
-#icon-503-EE9C96;E/Ascenseur;;2.2154952585697174,48.902944867889865;;;;;Bat.G;4
-#icon-503-F9F7A6;R/Salle 413A;;2.215571701526642,48.902983656381096;;;;;Bat.G;4
-#icon-503-E6EEA3;R/Salle 413B;;2.2156595438718796,48.90303522739671;;;;;Bat.G;4
-#icon-503-0BA9CC;R/Salle 414;;2.2157373279333115,48.903085035250136;;;;;Bat.G;4
-#icon-503-DB4436;R/Salle 409;;2.215571030974388,48.902868172375406;;;;;Bat.G;4
-#icon-503-C6A4CF;R/Salle 408;;2.215632051229477,48.9029003492435;;;;;Bat.G;4
-#icon-503-B29189;R/Salle 407;;2.2157011181116104,48.90293517076234;;;;;Bat.G;4
-#icon-503-FFFFFF;W/Toilettes;;2.215762138366699,48.90296690680902;;;;;Bat.G;4
-#icon-503-62AF44;R/Salle 405;;2.215821146965027,48.90299643894548;;;;;Bat.G;4
-#icon-503-F8971B;R/Salle 404;;2.2158855199813843,48.90303126039739;;;;;Bat.G;4
-#icon-503-4186F0;R/Salle 403;;2.215927764773369,48.90307754203643;;;;;Bat.G;4
-#icon-503-009D57;R/Salle 402;;2.2159894555807114,48.9031061925534;;;;;Bat.G;4
-#icon-503-F4EB37;R/Salle 401;;2.216036394238472,48.90312999450886;;;;;Bat.G;4
-#icon-503-FFDD5E;S/Escaliers;;2.215915694832802,48.90318641391353;;;;;Bat.G;4
-#icon-503-F4B400;A/Bureau de P. Hugues, H. GAYMARD et J. GUINCHARD;;2.215854674577713,48.90315467800623;;;;;Bat.G;4
-#icon-503-93D7E8;A/Bureau de Rolande MACINIAK;;2.2158265113830566,48.9031392508218;;;;;Bat.G;4
-#icon-503-3F5BA9;R/Salle 415;;2.2157996892929077,48.903122501301866;;;;;Bat.G;4
+#icon-503-795046;R/Salle 410A;;2.215401381254196,48.902797206880706;icon-503-FF8278;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-7CCFA9;R/Salle 410B;;2.215479165315628,48.902837758604306;icon-503-FF8279;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-FFDD5E;S/Escaliers;;2.2153396904468536,48.90287390250409;icon-503-FF8280;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-9FC3FF;R/Salle 412;;2.2154302150011063,48.90292503285431;icon-503-FF8281;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-CDDC39;R/Salle;;2.2154831886291504,48.90296602525247;icon-503-FF8282;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-EE9C96;E/Ascenseur;;2.2154952585697174,48.902944867889865;icon-503-FF8283;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-F9F7A6;R/Salle 413A;;2.215571701526642,48.902983656381096;icon-503-FF8284;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-E6EEA3;R/Salle 413B;;2.2156595438718796,48.90303522739671;icon-503-FF8285;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-0BA9CC;R/Salle 414;;2.2157373279333115,48.903085035250136;icon-503-FF8286;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-DB4436;R/Salle 409;;2.215571030974388,48.902868172375406;icon-503-FF8287;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-C6A4CF;R/Salle 408;;2.215632051229477,48.9029003492435;icon-503-FF8288;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-B29189;R/Salle 407;;2.2157011181116104,48.90293517076234;icon-503-FF8289;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-FFFFFF;W/Toilettes;;2.215762138366699,48.90296690680902;icon-503-FF8290;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-62AF44;R/Salle 405;;2.215821146965027,48.90299643894548;icon-503-FF8291;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-F8971B;R/Salle 404;;2.2158855199813843,48.90303126039739;icon-503-FF8292;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-4186F0;R/Salle 403;;2.215927764773369,48.90307754203643;icon-503-FF8293;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-009D57;R/Salle 402;;2.2159894555807114,48.9031061925534;icon-503-FF8294;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-F4EB37;R/Salle 401;;2.216036394238472,48.90312999450886;icon-503-FF8295;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-FFDD5E;S/Escaliers;;2.215915694832802,48.90318641391353;icon-503-FF8296;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-F4B400;A/Bureau de P. Hugues, H. GAYMARD et J. GUINCHARD;;2.215854674577713,48.90315467800623;icon-503-FF8297;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-93D7E8;A/Bureau de Rolande MACINIAK;;2.2158265113830566,48.9031392508218;icon-503-FF8298;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
+#icon-503-3F5BA9;R/Salle 415;;2.2157996892929077,48.903122501301866;icon-503-FF8299;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;4
 #icon-503-FF8277;S/Escaliers;;2.2153115272521973,48.902866409258735;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;5
 #icon-503-FF8277;R/Salle 513;;2.2153718769550323,48.90289814534908;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;5
 #icon-503-FF8277;A/Bureau de Gilliane LEFEBVRE et Christian MILELLI;;2.215416133403778,48.90292635519025;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.G;5
@@ -200,3 +211,222 @@ Bureau des Etudiants;Bureau des etudiants R102;;2.213400,48.902381;icon-503-FF82
 Toilettes;Toilettes Maisons des etudiants RWC02;;2.213469,48.902436;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.R;2
 Salle des fetes;Salle des fetes Batiment R0A;;2.213368,48.902473;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.R;0
 #icon-503-FF8277;R/Test;;2.2145340,48.9021770;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;0
+#icon-503-FF8277;R/Test2;;2.21437, 48.90533;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.N;0
+#icon-503-FF8277;R/Amphi D;;2.214186,48.902655;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;0
+#icon-503-FF8277;A/Agence Comptable Bureau R16;;2.214311,48.902095;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;0
+#icon-503-FF8277;R/Amphi C;;2.214034,48.902757;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;0
+#icon-503-FF8277;R/Amphi B;;2.214276,48.902712;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;0
+#icon-503-FF8277;R/Amphi Guy Carcassonne ;;2.214270,48.902733;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;0
+#icon-503-FF8277;R/101A;;2.214024,48.902288;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/101B;;2.214174,48.902363;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/101c;;2.214014,48.902282;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/102;;2.214275,48.902397;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/102 bis;;2.214248,48.902440;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/103;;2.214288,48.902422;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/104;;2.214288,48.902420;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/105;;2.214501,48.902545;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/106;;2.214610,48.902661;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/107;;2.214608,48.902664;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/108;;2.214777,48.902702;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/109;;2.214778,48.902703;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/110;;2.214731,48.902705;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/112;;2.214612,48.902660;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/113A;;2.214528,48.902569;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/113B;;2.214287,48.902421;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/114;;2.214290,48.902398;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/126;;2.214031,48.902282;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/127;;2.214115,48.902189;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/128;;2.214139,48.902162;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/129;;2.214158,48.902144;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/130;;2.214409,48.902045;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/131;;2.214417,48.902040;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/132;;2.214418,48.902036;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/133;;2.214419,48.902035;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/134;;2.214422,48.902031;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/135;;2.214423,48.902030;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/136;;2.214432,48.902021;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/137;;2.214435,48.902019;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/139;;2.214430,48.902023;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/139 bis;;2.214420,48.902034;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/140;;2.214412,48.902044;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/141;;2.214146,48.902157;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/142;;2.214114,48.902177;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;1
+#icon-503-FF8277;R/201;;2.214032,48.902300;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/201b;;2.214071,48.902343;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/201c;;2.214034,48.902300;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/202;;2.214035,48.902300;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/203;;2.214036,48.902300;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/204;;2.214036,48.902301;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/205;;2.214041,48.902302;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/206;;2.214200,48.902324;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/207;;2.214216,48.902340;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/208;;2.214220,48.902345;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/209;;2.214222,48.902346;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/210;;2.214599,48.902546;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/211;;2.214643,48.902545;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/212;;2.214644,48.902545;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/213;;2.214647,48.902548;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/214;;2.214648,48.902571;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/215;;2.214644,48.902544;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/216;;2.214644,48.902544;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/217;;2.214224,48.902346;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/218;;2.214234,48.902307;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/219;;2.214034,48.902300;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/234;;2.214388,48.901750;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/235;;2.214402,48.901768;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/236;;2.214422,48.901768;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/237;;2.214427,48.901769;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/238;;2.214445,48.901864;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/239;;2.214284,48.901938;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/240;;2.214287,48.901939;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/241;;2.214290,48.901938;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/242;;2.214296,48.901940;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/243;;2.214299,48.901940;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/244;;2.214306,48.901942;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/245;;2.214419,48.901922;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/246;;2.214706,48.901745;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/247;;2.214404,48.901932;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/248;;2.214401,48.901935;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/249;;2.214300,48.901941;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/250;;2.214292,48.901939;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/251;;2.214444,48.901914;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/252;;2.214427,48.901769;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;2
+#icon-503-FF8277;R/301;;2.214084,48.902249;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/302;;2.214094,48.902229;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/303;;2.214043,48.902225;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/304;;2.214047,48.902232;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/305;;2.214071,48.902221;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/306;;2.214062,48.902222;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/307;;2.214084,48.902223;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/308;;2.214224,48.902461;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/309;;2.214412,48.902448;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/310;;2.214412,48.902458;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/311;;2.214563,48.902582;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/312;;2.214607,48.902590;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/313;;2.214610,48.902593;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/314;;2.214926,48.902715;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/315;;2.214859,48.902686;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/315 bis;;2.214610,48.902592;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/316;;2.214457,48.902629;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/317;;2.214308,48.902455;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/318;;2.214305,48.902464;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/319;;2.214062,48.902223;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/335;;2.214289,48.902188;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/336;;2.214321,48.902084;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/337;;2.214324,48.902082;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/339;;2.214298,48.902069;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FF8277;R/340;;2.214437,48.902061;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-795046;R/341;;2.214445,48.902051;icon-503-FF8256;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-7CCFA9;R/342;;2.214442,48.902038;icon-503-FF8257;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-9FC3FF;R/343b;;2.214534,48.901934;icon-503-FF8258;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-CDDC39;R/343;;2.214535,48.901932;icon-503-FF8259;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-EE9C96;R/344;;2.214535,48.901931;icon-503-FF8260;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-F9F7A6;R/345;;2.214534,48.901930;icon-503-FF8261;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-E6EEA3;R/346;;2.214534,48.901930;icon-503-FF8262;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-0BA9CC;R/347;;2.214533,48.901929;icon-503-FF8263;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-DB4436;R/348;;2.214523,48.901928;icon-503-FF8264;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-C6A4CF;R/349;;2.214648,48.901917;icon-503-FF8265;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-B29189;R/350;;2.214537,48.901967;icon-503-FF8266;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FFFFFF;R/351;;2.214533,48.901930;icon-503-FF8267;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-62AF44;R/352;;2.214535,48.901931;icon-503-FF8268;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-F8971B;R/353;;2.214535,48.901932;icon-503-FF8269;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-4186F0;R/354;;2.214482,48.901934;icon-503-FF8270;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-009D57;R/355;;2.214489,48.901943;icon-503-FF8271;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-F4EB37;R/356;;2.214437,48.902058;icon-503-FF8272;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-FFDD5E;R/357;;2.214308,48.902052;icon-503-FF8273;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-F4B400;R/358;;2.214319,48.902084;icon-503-FF8274;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-93D7E8;R/359;;2.214321,48.902085;icon-503-FF8275;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;3
+#icon-503-3F5BA9;R/402;;2.214173,48.902192;icon-503-FF8276;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/403;;2.214165,48.902203;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/404;;2.214128,48.902225;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/405;;2.214128,48.902233;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/406;;2.214135,48.902231;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/407;;2.214138,48.902230;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/408;;2.214141,48.902229;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/409;;2.214154,48.902227;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/410;;2.214165,48.902223;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/411;;2.214177,48.902220;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/412;;2.214510,48.902044;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/413;;2.214517,48.902036;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/414;;2.214517,48.902040;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/415;;2.214518,48.902037;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/416;;2.214522,48.902033;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/417;;2.214516,48.902039;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/418;;2.214518,48.902038;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/419;;2.214517,48.902037;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/420;;2.214524,48.902034;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/421;;2.214171,48.902222;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/422;;2.214159,48.902226;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/423;;2.214147,48.902228;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/425;;2.214131,48.902232;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/426;;2.214126,48.902230;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/427;;2.214360,48.902128;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;4
+#icon-503-FF8277;R/501;;2.214490,48.902061;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/502;;2.214374,48.902187;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/503;;2.214282,48.902184;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/504;;2.214287,48.902191;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/506;;2.214286,48.902207;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/507;;2.214286,48.902205;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/508;;2.214288,48.902207;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/509;;2.214292,48.902205;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/510;;2.214293,48.902200;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/511;;2.214298,48.902199;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/512;;2.214301,48.902194;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/513;;2.214304,48.902190;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/514;;2.214311,48.902182;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/515;;2.214316,48.902177;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/516;;2.214385,48.902071;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/517;;2.214313,48.902179;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/518;;2.214309,48.902186;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/519;;2.214307,48.902188;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/520;;2.214300,48.902196;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/520;;2.214301,48.902193;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/521;;2.214294,48.902201;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/522;;2.214293,48.902203;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/523;;2.214291,48.902206;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/524;;2.214286,48.902207;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/524;;2.214291,48.902207;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/525;;2.214287,48.902208;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/526;;2.214286,48.902204;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/527;;2.214522,48.902037;icon-503-FF8277;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.F;5
+#icon-503-FF8277;R/N15BIS;;2.213913,48.905220;icon-503-FF8278;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.N;0
+#icon-503-FF8277;R/N15;;2.213958,48.905241;icon-503-FF8278;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.N;0
+#icon-503-FF8277;R/111;;2.218408,48.904139;icon-503-FF8279;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/129;;2.218402,48.904138;icon-503-FF8280;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/128;;2.214087,48.904912;icon-503-FF8281;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/112;;2.218309,48.904110;icon-503-FF8282;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/113;;2.218165,48.904056;icon-503-FF8283;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/115;;2.218159,48.904054;icon-503-FF8284;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/114;;2.218099,48.904031;icon-503-FF8285;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/115;;2.217726,48.904134;icon-503-FF8286;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/118;;2.217726,48.904134;icon-503-FF8287;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/119;;2.217469,48.904263;icon-503-FF8288;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/125;;2.217042,48.903659;icon-503-FF8289;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/124;;2.217186,48.904184;icon-503-FF8290;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/Théâtre BMK;;2.217186,48.904184;icon-503-FF8291;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/120;;2.217297,48.904129;icon-503-FF8292;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/121;;2.217115,48.904055;icon-503-FF8293;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/110;;2.217124,48.904063;icon-503-FF8294;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/109;;2.217426,48.903981;icon-503-FF8295;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/108;;2.217614,48.903848;icon-503-FF8296;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/107;;2.217443,48.903835;icon-503-FF8297;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/106;;2.218236,48.903207;icon-503-FF8298;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/105;;2.218236,48.903207;icon-503-FF8299;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/104;;2.217375,48.903685;icon-503-FF8300;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/103;;2.217494,48.903642;icon-503-FF8301;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/102;;2.217574,48.903636;icon-503-FF8302;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/101;;2.217545,48.903611;icon-503-FF8303;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/100;;2.217548,48.903615;icon-503-FF8304;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;1
+#icon-503-FF8277;R/R31;;2.217267,48.903539;icon-503-FF8305;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0
+#icon-503-FF8277;R/R28;;2.217266,48.903540;icon-503-FF8306;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0
+#icon-503-FF8277;R/Centre Culturel ;;2.217266,48.903540;icon-503-FF8307;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0
+#icon-503-FF8277;R/Espace Pierre Reverdy ;;2.217266,48.903540;icon-503-FF8308;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0
+#icon-503-FF8277;R/R12;;2.217266,48.903540;icon-503-FF8309;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0
+#icon-503-FF8277;R/R13;;2.217266,48.903540;icon-503-FF8310;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0
+#icon-503-FF8277;R/R14;;2.217266,48.903540;icon-503-FF8311;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0
+#icon-503-FF8277;R/R15;;2.217266,48.903540;icon-503-FF8312;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0
+#icon-503-FF8277;R/R15b;;2.216939,48.905487;icon-503-FF8313;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0
+#icon-503-FF8277;R/R20;;2.216939,48.905487;icon-503-FF8314;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0
+#icon-503-FF8277;R/R6;;2.216939,48.905487;icon-503-FF8315;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0
+#icon-503-FF8277;R/R5;;2.216939,48.905487;icon-503-FF8316;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0
+#icon-503-FF8277;R/R7;;2.217259,48.903561;icon-503-FF8317;ff7782FF;1,1;http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png;Bat.L;0

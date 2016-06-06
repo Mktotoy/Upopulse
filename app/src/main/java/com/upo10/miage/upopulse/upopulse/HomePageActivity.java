@@ -153,24 +153,24 @@ public class HomePageActivity extends ActionBarActivity
                 NAME = user.getPrenom() + " " + user.getNom();
                 EMAIL = user.getMail();
                 if(user.getAdm()<1) {
-                    TITLES = new String[]{"Accueil", "Evenements", "Partager ma localisation", "Compte"};
-                    ICONS = new int[]{R.drawable.ic_home, R.drawable.ic_events, R.drawable.ic_share_location, R.drawable.ic_action_person};
+                    TITLES = new String[]{"Accueil",/*"Evenements" ,*/"Partager ma localisation", "Compte"};
+                    ICONS = new int[]{R.drawable.ic_home,/* R.drawable.ic_events,*/ R.drawable.ic_share_location, R.drawable.ic_action_person};
                 }
                 else
                 {
-                    TITLES = new String[]{"Accueil", "Evenements", "Partager ma localisation", "Compte", "Administrateur"};
-                    ICONS = new int[]{R.drawable.ic_home, R.drawable.ic_events, R.drawable.ic_share_location, R.drawable.ic_action_accounts, R.drawable.ic_action_important};
+                    TITLES = new String[]{"Accueil",/*"Evenements" ,*/ "Partager ma localisation", "Compte", "Administrateur"};
+                    ICONS = new int[]{R.drawable.ic_home,/* R.drawable.ic_events,*/ R.drawable.ic_share_location, R.drawable.ic_action_accounts, R.drawable.ic_action_important};
                 }
 
             } else {
-                TITLES = new String[]{"Accueil", "Evenements", "Partager ma localisation", "Connexion"};
-                ICONS = new int[]{R.drawable.ic_home, R.drawable.ic_events, R.drawable.ic_share_location, R.drawable.ic_action_accounts};
+                TITLES = new String[]{"Accueil",/*"Evenements" ,*/ "Partager ma localisation", "Connexion"};
+                ICONS = new int[]{R.drawable.ic_home,/* R.drawable.ic_events,*/  R.drawable.ic_share_location, R.drawable.ic_action_accounts};
             }
         }
         catch(Exception e)
         {
-            TITLES = new String[]{"Accueil", "Evenements", "Partager ma localisation", "Connexion"};
-            ICONS = new int[]{R.drawable.ic_home, R.drawable.ic_events, R.drawable.ic_share_location, R.drawable.ic_action_accounts};
+            TITLES = new String[]{"Accueil", /*"Evenements" ,*/"Partager ma localisation", "Connexion"};
+            ICONS = new int[]{R.drawable.ic_home,/* R.drawable.ic_events,*/  R.drawable.ic_share_location, R.drawable.ic_action_accounts};
         }
 		
         toolbar = (Toolbar) findViewById(R.id.tool_bar);
@@ -257,13 +257,13 @@ public class HomePageActivity extends ActionBarActivity
                         Drawer.closeDrawers();
                     }
 
-                    if(recyclerView.getChildPosition(child) == 2)
+                    /*if(recyclerView.getChildPosition(child) == 2)int a changer suivant la position dans le tableau de TITLE
                     {
                         Intent intent = new Intent(HomePageActivity.this, DisplayEvents.class);
                         startActivity(intent);
-                    }
+                    }*/
 
-                    if(recyclerView.getChildPosition(child) == 4)
+                    if(recyclerView.getChildPosition(child) == 3)
                     {
                         Intent intent;
 
@@ -708,9 +708,9 @@ public class HomePageActivity extends ActionBarActivity
             imageOverlayID = floorName;
             if (imageOverlay != null)
                 imageOverlay.remove();
-            GroundOverlayOptions newarkMap = new GroundOverlayOptions()
+                GroundOverlayOptions newarkMap = new GroundOverlayOptions()
                     .image(BitmapDescriptorFactory.fromResource(floorName))
-                    .anchor(0, 1)
+                    .anchor(0, 1) // reviewtt
                     .bearing(-39.5f)
                     .transparency(0.5f)
                     .position(floor, longueur, largeur);
